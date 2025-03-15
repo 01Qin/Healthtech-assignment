@@ -5,17 +5,18 @@ Group 1: Su Wai Phyoe, Wang Qin, Lu Liu
 User Manual
 
 
-First Year Hardware Project/br
-School of ICT
-Metropolia University of Applied Sciences
-14.3.2025 
-Version history 
+First Year Hardware Project</br>
+School of ICT</br>
+Metropolia University of Applied Sciences</br>
+14.3.2025 </br>
+
+Version history \
  
 Ver 	Description 	Date 	Author(s) 
 1.0	Wrote introduction and getting started parts for user manual 	13.3.2025	Su Wai Phyoe
 
-	Wrote using the device part for user manual 	13.3.2025	Wang Qin
-	Wrote troubleshooting and additional information for user manual	14.3.2025	Su Wai Phyoe, Wang Qin
+1.1	Wrote using the device part for user manual 	13.3.2025	Wang Qin
+2.0	Wrote troubleshooting and additional information for user manual	14.3.2025	Su Wai Phyoe, Wang Qin
 			
 			
   	  	  	  
@@ -24,7 +25,7 @@ Ver 	Description 	Date 	Author(s)
   	  	  	  
  
 Contents
-1	Introduction	1
+1	Introduction	1\
 Glossary	1
 2	Getting Started	2
 Hardware Assembly	2
