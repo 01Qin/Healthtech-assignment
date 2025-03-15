@@ -5,7 +5,7 @@ Group 1: Su Wai Phyoe, Wang Qin, Lu Liu
 User Manual
 
 
-First Year Hardware Project[\br]
+First Year Hardware Project/br
 School of ICT
 Metropolia University of Applied Sciences
 14.3.2025 
