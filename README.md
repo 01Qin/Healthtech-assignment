@@ -161,6 +161,5 @@ ports, 2 × micro-HDMI® ports (up to 4kp60 supported), Micro-SD card slot.For d
 Raspberry Pi Pico W: Dimensions 15 cm × 10 cm × 5 cm, Weight: 350g,</br>
 Wireless (802.11n), single-band (2.4 GHz), Bluetooth 5.2. For detailed technical information, please visit: Raspberry Pi Pico W datasheet</br>
 
-![image](https://github.com/user-attachments/assets/bebbaf47-09ee-4f46-aafc-bcbd0e6ecee6)
 
 ---
