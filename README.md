@@ -1,7 +1,7 @@
 <img width="258" alt="image" src="https://github.com/user-attachments/assets/f155da63-79d0-42f8-b600-c99c956a502c" />
 
-Group 1: Su Wai Phyoe, Wang Qin, Lu Liu 
-<Heartie>
+Group 1: Su Wai Phyoe, Wang Qin, Lu Liu </br>
+<Heartie></br>
 User Manual
 
 
@@ -10,13 +10,13 @@ School of ICT</br>
 Metropolia University of Applied Sciences</br>
 14.3.2025 </br>
 
-Version history \
+Version history </br>
  
-Ver 	Description 	Date 	Author(s) 
-1.0	Wrote introduction and getting started parts for user manual 	13.3.2025	Su Wai Phyoe
+Ver 	Description 	Date 	Author(s) </br>
+1.0	Wrote introduction and getting started parts for user manual 	13.3.2025	Su Wai Phyoe</br>
 
-1.1	Wrote using the device part for user manual 	13.3.2025	Wang Qin
-2.0	Wrote troubleshooting and additional information for user manual	14.3.2025	Su Wai Phyoe, Wang Qin
+1.1	Wrote using the device part for user manual 	13.3.2025	Wang Qin</br>
+2.0	Wrote troubleshooting and additional information for user manual	14.3.2025	Su Wai Phyoe, Wang Qin</br>
 			
 			
   	  	  	  
@@ -25,27 +25,27 @@ Ver 	Description 	Date 	Author(s)
   	  	  	  
  
 Contents
-1	Introduction	1\
-Glossary	1
-2	Getting Started	2
-Hardware Assembly	2
-3	Using the Device	3
-3.1	How does Heartie work	3
-3.2	How to Interpret the Results	4
-4	Troubleshooting	6
-5	Additional information	6
-5.1	Contact Information	6
-5.2	Technical Specification	7
-5.3	Feedback form	7
-5.4	Self-Repairing	7
-5.5	Device Properties	7
+1	Introduction	1</br>
+Glossary	1</br>
+2	Getting Started	2</br>
+Hardware Assembly	2</br>
+3	Using the Device	3</br>
+3.1	How does Heartie work	3</br>
+3.2	How to Interpret the Results	4</br>
+4	Troubleshooting	6</br>
+5	Additional information	6</br>
+5.1	Contact Information	6</br>
+5.2	Technical Specification	7</br>
+5.3	Feedback form	7</br>
+5.4	Self-Repairing	7</br>
+5.5	Device Properties	7</br>
 
  
-1	Introduction
-Welcome to the user manual of “Heartie” heart rate detector. This innovative device allows users to accurately measure pulse rate and heart rate variability. Whether you're a medical professional monitoring patient health, a fitness enthusiast tracking your performance, or a researcher collecting data, this device is designed to provide reliable results in real-time. This manual will guide you through the setup process, explain how to operate Heartie, and offer solutions for common issues you might encounter.
-Intended Users
+1	Introduction</br>
+Welcome to the user manual of “Heartie” heart rate detector. This innovative device allows users to accurately measure pulse rate and heart rate variability. Whether you're a medical professional monitoring patient health, a fitness enthusiast tracking your performance, or a researcher collecting data, this device is designed to provide reliable results in real-time. This manual will guide you through the setup process, explain how to operate Heartie, and offer solutions for common issues you might encounter.</br>
+Intended Users</br>
 
-●	Medical Professionals
+●	Medical Professionals</br>
 ●	Athletes & Fitness Enthusiasts
 ●	General Users
 Glossary
